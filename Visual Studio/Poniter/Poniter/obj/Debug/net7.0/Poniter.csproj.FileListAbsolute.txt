@@ -1,0 +1,15 @@
+F:\BCA\Semester 4\C#\program\unit-2\Visual Studio\Poniter\Poniter\bin\Debug\net7.0\Poniter.exe
+F:\BCA\Semester 4\C#\program\unit-2\Visual Studio\Poniter\Poniter\bin\Debug\net7.0\Poniter.deps.json
+F:\BCA\Semester 4\C#\program\unit-2\Visual Studio\Poniter\Poniter\bin\Debug\net7.0\Poniter.runtimeconfig.json
+F:\BCA\Semester 4\C#\program\unit-2\Visual Studio\Poniter\Poniter\bin\Debug\net7.0\Poniter.dll
+F:\BCA\Semester 4\C#\program\unit-2\Visual Studio\Poniter\Poniter\bin\Debug\net7.0\Poniter.pdb
+F:\BCA\Semester 4\C#\program\unit-2\Visual Studio\Poniter\Poniter\obj\Debug\net7.0\Poniter.csproj.AssemblyReference.cache
+F:\BCA\Semester 4\C#\program\unit-2\Visual Studio\Poniter\Poniter\obj\Debug\net7.0\Poniter.GeneratedMSBuildEditorConfig.editorconfig
+F:\BCA\Semester 4\C#\program\unit-2\Visual Studio\Poniter\Poniter\obj\Debug\net7.0\Poniter.AssemblyInfoInputs.cache
+F:\BCA\Semester 4\C#\program\unit-2\Visual Studio\Poniter\Poniter\obj\Debug\net7.0\Poniter.AssemblyInfo.cs
+F:\BCA\Semester 4\C#\program\unit-2\Visual Studio\Poniter\Poniter\obj\Debug\net7.0\Poniter.csproj.CoreCompileInputs.cache
+F:\BCA\Semester 4\C#\program\unit-2\Visual Studio\Poniter\Poniter\obj\Debug\net7.0\Poniter.dll
+F:\BCA\Semester 4\C#\program\unit-2\Visual Studio\Poniter\Poniter\obj\Debug\net7.0\refint\Poniter.dll
+F:\BCA\Semester 4\C#\program\unit-2\Visual Studio\Poniter\Poniter\obj\Debug\net7.0\Poniter.pdb
+F:\BCA\Semester 4\C#\program\unit-2\Visual Studio\Poniter\Poniter\obj\Debug\net7.0\Poniter.genruntimeconfig.cache
+F:\BCA\Semester 4\C#\program\unit-2\Visual Studio\Poniter\Poniter\obj\Debug\net7.0\ref\Poniter.dll
