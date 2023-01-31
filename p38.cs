@@ -1,17 +1,13 @@
 using System;
 public delegate double delegate_op(double a,double b);
 class p38{ 
-    static double fun_multi(double x,double y)
-    {
+    static double fun_multi(double x,double y){
         return x * y;
     }
-    static double fun_add(double x,double y)
-    {
+    static double fun_add(double x,double y){
         return x + y;
     }
-
-    private static unsafe void Main(String []args)
-    {
+    private static unsafe void Main(String []args){
         delegate_op objdel1 = new delegate_op(fun_multi);
         delegate_op objdel2 = new delegate_op(fun_add);
         Console.Write("Enter Value 1 : ");
