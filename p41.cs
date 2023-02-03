@@ -1,3 +1,5 @@
+// += add karva mate
+// -= remove karva mate
 using System;
 public delegate void delegate_op(double a, double b);
 class p41{
