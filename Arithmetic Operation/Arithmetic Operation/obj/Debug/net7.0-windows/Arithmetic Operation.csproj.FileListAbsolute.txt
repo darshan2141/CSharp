@@ -1,0 +1,17 @@
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\bin\Debug\net7.0-windows\Arithmetic Operation.exe
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\bin\Debug\net7.0-windows\Arithmetic Operation.deps.json
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\bin\Debug\net7.0-windows\Arithmetic Operation.runtimeconfig.json
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\bin\Debug\net7.0-windows\Arithmetic Operation.dll
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\bin\Debug\net7.0-windows\Arithmetic Operation.pdb
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\obj\Debug\net7.0-windows\Arithmetic Operation.csproj.AssemblyReference.cache
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\obj\Debug\net7.0-windows\Arithmetic_Operation.Form1.resources
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\obj\Debug\net7.0-windows\Arithmetic Operation.csproj.GenerateResource.cache
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\obj\Debug\net7.0-windows\Arithmetic Operation.GeneratedMSBuildEditorConfig.editorconfig
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\obj\Debug\net7.0-windows\Arithmetic Operation.AssemblyInfoInputs.cache
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\obj\Debug\net7.0-windows\Arithmetic Operation.AssemblyInfo.cs
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\obj\Debug\net7.0-windows\Arithmetic Operation.csproj.CoreCompileInputs.cache
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\obj\Debug\net7.0-windows\Arithmetic Operation.dll
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\obj\Debug\net7.0-windows\refint\Arithmetic Operation.dll
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\obj\Debug\net7.0-windows\Arithmetic Operation.pdb
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\obj\Debug\net7.0-windows\Arithmetic Operation.genruntimeconfig.cache
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation\Arithmetic Operation\obj\Debug\net7.0-windows\ref\Arithmetic Operation.dll

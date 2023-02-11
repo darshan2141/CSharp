@@ -1,0 +1,17 @@
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\bin\Debug\net7.0-windows\Arithmetic Operation with Buttoncontrol.exe
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\bin\Debug\net7.0-windows\Arithmetic Operation with Buttoncontrol.deps.json
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\bin\Debug\net7.0-windows\Arithmetic Operation with Buttoncontrol.runtimeconfig.json
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\bin\Debug\net7.0-windows\Arithmetic Operation with Buttoncontrol.dll
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\bin\Debug\net7.0-windows\Arithmetic Operation with Buttoncontrol.pdb
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\obj\Debug\net7.0-windows\Arithmetic Operation with Buttoncontrol.csproj.AssemblyReference.cache
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\obj\Debug\net7.0-windows\Arithmetic_Operation_with_Buttoncontrol.Form1.resources
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\obj\Debug\net7.0-windows\Arithmetic Operation with Buttoncontrol.csproj.GenerateResource.cache
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\obj\Debug\net7.0-windows\Arithmetic Operation with Buttoncontrol.GeneratedMSBuildEditorConfig.editorconfig
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\obj\Debug\net7.0-windows\Arithmetic Operation with Buttoncontrol.AssemblyInfoInputs.cache
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\obj\Debug\net7.0-windows\Arithmetic Operation with Buttoncontrol.AssemblyInfo.cs
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\obj\Debug\net7.0-windows\Arithmetic Operation with Buttoncontrol.csproj.CoreCompileInputs.cache
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\obj\Debug\net7.0-windows\Arithmetic Operation with Buttoncontrol.dll
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\obj\Debug\net7.0-windows\refint\Arithmetic Operation with Buttoncontrol.dll
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\obj\Debug\net7.0-windows\Arithmetic Operation with Buttoncontrol.pdb
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\obj\Debug\net7.0-windows\Arithmetic Operation with Buttoncontrol.genruntimeconfig.cache
+F:\BCA\Semester 4\C#\program\unit-3\Arithmetic Operation with Buttoncontrol\Arithmetic Operation with Buttoncontrol\obj\Debug\net7.0-windows\ref\Arithmetic Operation with Buttoncontrol.dll

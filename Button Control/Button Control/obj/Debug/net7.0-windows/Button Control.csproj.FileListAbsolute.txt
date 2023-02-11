@@ -1,0 +1,17 @@
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\bin\Debug\net7.0-windows\Button Control.exe
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\bin\Debug\net7.0-windows\Button Control.deps.json
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\bin\Debug\net7.0-windows\Button Control.runtimeconfig.json
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\bin\Debug\net7.0-windows\Button Control.dll
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\bin\Debug\net7.0-windows\Button Control.pdb
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\obj\Debug\net7.0-windows\Button Control.csproj.AssemblyReference.cache
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\obj\Debug\net7.0-windows\Button_Control.Form1.resources
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\obj\Debug\net7.0-windows\Button Control.csproj.GenerateResource.cache
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\obj\Debug\net7.0-windows\Button Control.GeneratedMSBuildEditorConfig.editorconfig
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\obj\Debug\net7.0-windows\Button Control.AssemblyInfoInputs.cache
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\obj\Debug\net7.0-windows\Button Control.AssemblyInfo.cs
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\obj\Debug\net7.0-windows\Button Control.csproj.CoreCompileInputs.cache
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\obj\Debug\net7.0-windows\Button Control.dll
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\obj\Debug\net7.0-windows\refint\Button Control.dll
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\obj\Debug\net7.0-windows\Button Control.pdb
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\obj\Debug\net7.0-windows\Button Control.genruntimeconfig.cache
+F:\BCA\Semester 4\C#\program\unit-3\Button Control\Button Control\obj\Debug\net7.0-windows\ref\Button Control.dll

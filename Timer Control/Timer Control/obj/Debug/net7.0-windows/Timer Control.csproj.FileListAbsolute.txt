@@ -1,0 +1,17 @@
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\bin\Debug\net7.0-windows\Timer Control.exe
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\bin\Debug\net7.0-windows\Timer Control.deps.json
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\bin\Debug\net7.0-windows\Timer Control.runtimeconfig.json
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\bin\Debug\net7.0-windows\Timer Control.dll
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\bin\Debug\net7.0-windows\Timer Control.pdb
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\obj\Debug\net7.0-windows\Timer Control.csproj.AssemblyReference.cache
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\obj\Debug\net7.0-windows\Timer_Control.Form1.resources
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\obj\Debug\net7.0-windows\Timer Control.csproj.GenerateResource.cache
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\obj\Debug\net7.0-windows\Timer Control.GeneratedMSBuildEditorConfig.editorconfig
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\obj\Debug\net7.0-windows\Timer Control.AssemblyInfoInputs.cache
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\obj\Debug\net7.0-windows\Timer Control.AssemblyInfo.cs
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\obj\Debug\net7.0-windows\Timer Control.csproj.CoreCompileInputs.cache
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\obj\Debug\net7.0-windows\Timer Control.dll
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\obj\Debug\net7.0-windows\refint\Timer Control.dll
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\obj\Debug\net7.0-windows\Timer Control.pdb
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\obj\Debug\net7.0-windows\Timer Control.genruntimeconfig.cache
+F:\BCA\Semester 4\C#\program\unit-3\Timer Control\Timer Control\obj\Debug\net7.0-windows\ref\Timer Control.dll
