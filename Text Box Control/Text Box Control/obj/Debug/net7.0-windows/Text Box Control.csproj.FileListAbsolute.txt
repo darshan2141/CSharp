@@ -1,0 +1,17 @@
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\bin\Debug\net7.0-windows\Text Box Control.exe
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\bin\Debug\net7.0-windows\Text Box Control.deps.json
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\bin\Debug\net7.0-windows\Text Box Control.runtimeconfig.json
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\bin\Debug\net7.0-windows\Text Box Control.dll
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\bin\Debug\net7.0-windows\Text Box Control.pdb
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\obj\Debug\net7.0-windows\Text Box Control.csproj.AssemblyReference.cache
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\obj\Debug\net7.0-windows\Text_Box_Control.Form1.resources
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\obj\Debug\net7.0-windows\Text Box Control.csproj.GenerateResource.cache
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\obj\Debug\net7.0-windows\Text Box Control.GeneratedMSBuildEditorConfig.editorconfig
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\obj\Debug\net7.0-windows\Text Box Control.AssemblyInfoInputs.cache
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\obj\Debug\net7.0-windows\Text Box Control.AssemblyInfo.cs
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\obj\Debug\net7.0-windows\Text Box Control.csproj.CoreCompileInputs.cache
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\obj\Debug\net7.0-windows\Text Box Control.dll
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\obj\Debug\net7.0-windows\refint\Text Box Control.dll
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\obj\Debug\net7.0-windows\Text Box Control.pdb
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\obj\Debug\net7.0-windows\Text Box Control.genruntimeconfig.cache
+F:\BCA\Semester 4\C#\program\unit-3\Text Box Control\Text Box Control\obj\Debug\net7.0-windows\ref\Text Box Control.dll
