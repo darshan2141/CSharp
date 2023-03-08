@@ -1,0 +1,11 @@
+F:\BCA\Semester 4\C#\program\unit-3\Tool Tip Control\Tool Tip Control\bin\Debug\Tool Tip Control.exe.config
+F:\BCA\Semester 4\C#\program\unit-3\Tool Tip Control\Tool Tip Control\bin\Debug\Tool Tip Control.exe
+F:\BCA\Semester 4\C#\program\unit-3\Tool Tip Control\Tool Tip Control\bin\Debug\Tool Tip Control.pdb
+F:\BCA\Semester 4\C#\program\unit-3\Tool Tip Control\Tool Tip Control\obj\Debug\Tool Tip Control.csproj.AssemblyReference.cache
+F:\BCA\Semester 4\C#\program\unit-3\Tool Tip Control\Tool Tip Control\obj\Debug\Tool Tip Control.csproj.SuggestedBindingRedirects.cache
+F:\BCA\Semester 4\C#\program\unit-3\Tool Tip Control\Tool Tip Control\obj\Debug\Tool_Tip_Control.Form1.resources
+F:\BCA\Semester 4\C#\program\unit-3\Tool Tip Control\Tool Tip Control\obj\Debug\Tool_Tip_Control.Properties.Resources.resources
+F:\BCA\Semester 4\C#\program\unit-3\Tool Tip Control\Tool Tip Control\obj\Debug\Tool Tip Control.csproj.GenerateResource.cache
+F:\BCA\Semester 4\C#\program\unit-3\Tool Tip Control\Tool Tip Control\obj\Debug\Tool Tip Control.csproj.CoreCompileInputs.cache
+F:\BCA\Semester 4\C#\program\unit-3\Tool Tip Control\Tool Tip Control\obj\Debug\Tool Tip Control.exe
+F:\BCA\Semester 4\C#\program\unit-3\Tool Tip Control\Tool Tip Control\obj\Debug\Tool Tip Control.pdb

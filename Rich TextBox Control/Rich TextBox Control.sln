@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rich TextBox Control", "Rich TextBox Control\Rich TextBox Control.csproj", "{C78105EC-F2CE-4B84-891A-044A752466BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C78105EC-F2CE-4B84-891A-044A752466BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78105EC-F2CE-4B84-891A-044A752466BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78105EC-F2CE-4B84-891A-044A752466BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78105EC-F2CE-4B84-891A-044A752466BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9A5C05A-48DD-4355-8B35-199DC3C05783}
+	EndGlobalSection
+EndGlobal

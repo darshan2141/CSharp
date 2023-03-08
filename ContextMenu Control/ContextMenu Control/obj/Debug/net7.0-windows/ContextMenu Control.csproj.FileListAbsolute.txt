@@ -1,0 +1,34 @@
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\bin\Debug\net7.0-windows\ContextMenu Control.exe
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\bin\Debug\net7.0-windows\ContextMenu Control.deps.json
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\bin\Debug\net7.0-windows\ContextMenu Control.runtimeconfig.json
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\bin\Debug\net7.0-windows\ContextMenu Control.dll
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\bin\Debug\net7.0-windows\ContextMenu Control.pdb
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.csproj.AssemblyReference.cache
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu_Control.Form1.resources
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.csproj.GenerateResource.cache
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.AssemblyInfoInputs.cache
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.AssemblyInfo.cs
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.csproj.CoreCompileInputs.cache
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.dll
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\refint\ContextMenu Control.dll
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.pdb
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.genruntimeconfig.cache
+C:\Users\ubhad\OneDrive\Desktop\Practice\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ref\ContextMenu Control.dll
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\bin\Debug\net7.0-windows\ContextMenu Control.exe
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\bin\Debug\net7.0-windows\ContextMenu Control.deps.json
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\bin\Debug\net7.0-windows\ContextMenu Control.runtimeconfig.json
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\bin\Debug\net7.0-windows\ContextMenu Control.dll
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\bin\Debug\net7.0-windows\ContextMenu Control.pdb
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.csproj.AssemblyReference.cache
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu_Control.Form1.resources
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.csproj.GenerateResource.cache
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.GeneratedMSBuildEditorConfig.editorconfig
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.AssemblyInfoInputs.cache
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.AssemblyInfo.cs
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.csproj.CoreCompileInputs.cache
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.dll
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\refint\ContextMenu Control.dll
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.pdb
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ContextMenu Control.genruntimeconfig.cache
+F:\BCA\Semester 4\C#\program\unit-3\ContextMenu Control\ContextMenu Control\obj\Debug\net7.0-windows\ref\ContextMenu Control.dll

@@ -1,0 +1,12 @@
+F:\BCA\Semester 4\C#\program\unit-3\MDI Form with Menu Strip Control\MDI Form with Menu Strip Control\bin\Debug\MDI Form with Menu Strip Control.exe.config
+F:\BCA\Semester 4\C#\program\unit-3\MDI Form with Menu Strip Control\MDI Form with Menu Strip Control\bin\Debug\MDI Form with Menu Strip Control.exe
+F:\BCA\Semester 4\C#\program\unit-3\MDI Form with Menu Strip Control\MDI Form with Menu Strip Control\bin\Debug\MDI Form with Menu Strip Control.pdb
+F:\BCA\Semester 4\C#\program\unit-3\MDI Form with Menu Strip Control\MDI Form with Menu Strip Control\obj\Debug\MDI Form with Menu Strip Control.csproj.AssemblyReference.cache
+F:\BCA\Semester 4\C#\program\unit-3\MDI Form with Menu Strip Control\MDI Form with Menu Strip Control\obj\Debug\MDI Form with Menu Strip Control.csproj.SuggestedBindingRedirects.cache
+F:\BCA\Semester 4\C#\program\unit-3\MDI Form with Menu Strip Control\MDI Form with Menu Strip Control\obj\Debug\MDI_Form_with_Menu_Strip_Control.Form1.resources
+F:\BCA\Semester 4\C#\program\unit-3\MDI Form with Menu Strip Control\MDI Form with Menu Strip Control\obj\Debug\MDI_Form_with_Menu_Strip_Control.Properties.Resources.resources
+F:\BCA\Semester 4\C#\program\unit-3\MDI Form with Menu Strip Control\MDI Form with Menu Strip Control\obj\Debug\MDI Form with Menu Strip Control.csproj.GenerateResource.cache
+F:\BCA\Semester 4\C#\program\unit-3\MDI Form with Menu Strip Control\MDI Form with Menu Strip Control\obj\Debug\MDI Form with Menu Strip Control.csproj.CoreCompileInputs.cache
+F:\BCA\Semester 4\C#\program\unit-3\MDI Form with Menu Strip Control\MDI Form with Menu Strip Control\obj\Debug\MDI Form with Menu Strip Control.exe
+F:\BCA\Semester 4\C#\program\unit-3\MDI Form with Menu Strip Control\MDI Form with Menu Strip Control\obj\Debug\MDI Form with Menu Strip Control.pdb
+F:\BCA\Semester 4\C#\program\unit-3\MDI Form with Menu Strip Control\MDI Form with Menu Strip Control\obj\Debug\MDI_Form_with_Menu_Strip_Control.Form2.resources

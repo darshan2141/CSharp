@@ -1,0 +1,11 @@
+F:\BCA\Semester 4\C#\program\unit-3\Dialog Control\Dialog Control\bin\Debug\Dialog Control.exe.config
+F:\BCA\Semester 4\C#\program\unit-3\Dialog Control\Dialog Control\bin\Debug\Dialog Control.exe
+F:\BCA\Semester 4\C#\program\unit-3\Dialog Control\Dialog Control\bin\Debug\Dialog Control.pdb
+F:\BCA\Semester 4\C#\program\unit-3\Dialog Control\Dialog Control\obj\Debug\Dialog Control.csproj.AssemblyReference.cache
+F:\BCA\Semester 4\C#\program\unit-3\Dialog Control\Dialog Control\obj\Debug\Dialog Control.csproj.SuggestedBindingRedirects.cache
+F:\BCA\Semester 4\C#\program\unit-3\Dialog Control\Dialog Control\obj\Debug\Dialog_Control.Form1.resources
+F:\BCA\Semester 4\C#\program\unit-3\Dialog Control\Dialog Control\obj\Debug\Dialog_Control.Properties.Resources.resources
+F:\BCA\Semester 4\C#\program\unit-3\Dialog Control\Dialog Control\obj\Debug\Dialog Control.csproj.GenerateResource.cache
+F:\BCA\Semester 4\C#\program\unit-3\Dialog Control\Dialog Control\obj\Debug\Dialog Control.csproj.CoreCompileInputs.cache
+F:\BCA\Semester 4\C#\program\unit-3\Dialog Control\Dialog Control\obj\Debug\Dialog Control.exe
+F:\BCA\Semester 4\C#\program\unit-3\Dialog Control\Dialog Control\obj\Debug\Dialog Control.pdb

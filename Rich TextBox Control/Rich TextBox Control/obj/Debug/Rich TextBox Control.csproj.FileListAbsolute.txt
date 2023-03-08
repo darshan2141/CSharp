@@ -1,0 +1,11 @@
+F:\BCA\Semester 4\C#\program\unit-3\Rich TextBox Control\Rich TextBox Control\bin\Debug\Rich TextBox Control.exe.config
+F:\BCA\Semester 4\C#\program\unit-3\Rich TextBox Control\Rich TextBox Control\bin\Debug\Rich TextBox Control.exe
+F:\BCA\Semester 4\C#\program\unit-3\Rich TextBox Control\Rich TextBox Control\bin\Debug\Rich TextBox Control.pdb
+F:\BCA\Semester 4\C#\program\unit-3\Rich TextBox Control\Rich TextBox Control\obj\Debug\Rich TextBox Control.csproj.AssemblyReference.cache
+F:\BCA\Semester 4\C#\program\unit-3\Rich TextBox Control\Rich TextBox Control\obj\Debug\Rich TextBox Control.csproj.SuggestedBindingRedirects.cache
+F:\BCA\Semester 4\C#\program\unit-3\Rich TextBox Control\Rich TextBox Control\obj\Debug\Rich_TextBox_Control.Form1.resources
+F:\BCA\Semester 4\C#\program\unit-3\Rich TextBox Control\Rich TextBox Control\obj\Debug\Rich_TextBox_Control.Properties.Resources.resources
+F:\BCA\Semester 4\C#\program\unit-3\Rich TextBox Control\Rich TextBox Control\obj\Debug\Rich TextBox Control.csproj.GenerateResource.cache
+F:\BCA\Semester 4\C#\program\unit-3\Rich TextBox Control\Rich TextBox Control\obj\Debug\Rich TextBox Control.csproj.CoreCompileInputs.cache
+F:\BCA\Semester 4\C#\program\unit-3\Rich TextBox Control\Rich TextBox Control\obj\Debug\Rich TextBox Control.exe
+F:\BCA\Semester 4\C#\program\unit-3\Rich TextBox Control\Rich TextBox Control\obj\Debug\Rich TextBox Control.pdb
