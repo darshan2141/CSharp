@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z5y/ITiZ3X4jrIyK+EwSe0ou2AZI41ar2Cl67NUSBNOuQAs+D5D8h91PGj6Qd8aluYvKWQ175nBNQso9qBDlzw==",
+  "success": true,
+  "projectFilePath": "F:\\BCA\\Semester 4\\C#\\program\\unit-4\\WinFormsApp1 - Copy\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ubhad\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\ubhad\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\ubhad\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\ubhad\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\ubhad\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\ubhad\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\ubhad\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\ubhad\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ubhad\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
